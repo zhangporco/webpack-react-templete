@@ -7,7 +7,7 @@ cd ./amsc-admin
 npm i
 ```
 
-## 运行（默认 4040 端口）
+## 运行（默认 8080 端口）
 development 环境(开发模式)：
 ```
 npm run dev-server
