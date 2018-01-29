@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+.idea
+npm-debug.log
+compilation-stats.json
+*.iml
+package-lock.json

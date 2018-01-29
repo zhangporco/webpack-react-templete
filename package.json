@@ -1,0 +1,19 @@
+{
+  "name": "webpack-react-templete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangporco/webpack-react-templete.git"
+  },
+  "author": "Porco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangporco/webpack-react-templete/issues"
+  },
+  "homepage": "https://github.com/zhangporco/webpack-react-templete#readme"
+}
