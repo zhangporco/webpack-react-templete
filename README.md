@@ -2,8 +2,8 @@
 
 ## 安装
 ```
-git clone https://gitee.com/GTchao555/shanghai-jiahui-pc.git
-cd ./amsc-admin
+git clone https://github.com/zhangporco/webpack-react-templete.git
+cd ./webpack-react-templete
 npm i
 ```
 
